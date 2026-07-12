@@ -51,6 +51,7 @@ Follow these steps to clone and run the project locally:
 ### Step 1: Clone the repository
 ```bash
 git clone https://github.com/Ramirog22/qa-challenge.git
+cd qa-challenge
 ```
 
 ### Step 2: Install dependencies
