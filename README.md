@@ -68,9 +68,9 @@ npx playwright install
 Create a `.env` file in the project root directory following this template:
 
 ```env
-BASE_URL=[https://your-app-url.com](https://your-app-url.com)
-USER_EMAIL=your_email@domain.com
-USER_PASSWORD=your_secure_password
+BASE_URL=https://light-it-qa-challenge.vercel.app
+TEST_USER="your_email@domain.com"
+TEST_PASSWORD="your_secure_password"
 ```
 
 > ⚠️ **Security Note:** The `.env` file is excluded from version control via `.gitignore` to prevent committing sensitive credentials.
